@@ -1,5 +1,9 @@
 #!/usr/bin/env zsh
 
+#
+# All my personal shell aliases and useful functions
+#
+
 # shellcheck shell=bash
 
 #-------------------------------------------------------------------------------
